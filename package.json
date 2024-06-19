@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/mark05e/book-scraper#readme",
     "dependencies": {
-      "puppeteer": "^13.5.2"
+      "puppeteer": "^22.11.2"
     }
   }
   
